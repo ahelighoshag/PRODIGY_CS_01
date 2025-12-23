@@ -10,7 +10,7 @@ Caesar Cipher Encryption and Decryption
 This project implements the Caesar Cipher, a classical encryption technique where each letter in the plaintext is shifted by a fixed number of positions in the alphabet. The program allows users to encrypt and decrypt text using a user-defined shift value.
 <hr>
 ⚙️ Features
-
+</br>
 Encrypts plaintext using Caesar Cipher
 
 Decrypts ciphertext back to original text
@@ -20,7 +20,7 @@ Supports both uppercase and lowercase letters
 Preserves non-alphabetic characters (spaces, symbols, numbers)
 <hr>
 🛠️ Technologies Used
-
+</br>
 Python 3
 <hr>
 📂 Files Included
@@ -29,7 +29,7 @@ caesar_cipher.py – Main Python program for encryption and decryption
 <hr>
 ▶️ How to Run
 python caesar_cipher.py
-<hr>
+
 📌 Example
 
 Input: HELLO
