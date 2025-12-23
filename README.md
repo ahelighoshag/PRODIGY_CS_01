@@ -11,6 +11,7 @@ This project implements the Caesar Cipher, a classical encryption technique wher
 <hr>
 ⚙️ Features
 </br>
+
 Encrypts plaintext using Caesar Cipher
 
 Decrypts ciphertext back to original text
