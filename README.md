@@ -17,18 +17,18 @@ Decrypts ciphertext back to original text
 Supports both uppercase and lowercase letters
 
 Preserves non-alphabetic characters (spaces, symbols, numbers)
-
+<hr>
 🛠️ Technologies Used
 
 Python 3
-
+<hr>
 📂 Files Included
 
 caesar_cipher.py – Main Python program for encryption and decryption
-
+<hr>
 ▶️ How to Run
 python caesar_cipher.py
-
+<hr>
 📌 Example
 
 Input: HELLO
