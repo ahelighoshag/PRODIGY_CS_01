@@ -1,40 +1,46 @@
 📁 PRODIGY_CS_01 – Caesar Cipher Implementation
-</br>
-</br>
 📌 Project Title
 
 Caesar Cipher Encryption and Decryption
 
 📝 Description
 
-This project implements the Caesar Cipher, a classical encryption technique where each letter in the plaintext is shifted by a fixed number of positions in the alphabet. The program allows users to encrypt and decrypt text using a user-defined shift value.
-<hr>
+This project implements the Caesar Cipher, a classical encryption technique where each letter in the plaintext is shifted by a fixed number of positions in the alphabet.
+The program allows users to encrypt and decrypt text using a user-defined shift value.
+
 ⚙️ Features
-</br>
 
-Encrypts plaintext using Caesar Cipher
+Encrypts plaintext using the Caesar Cipher
 
-Decrypts ciphertext back to original text
+Decrypts ciphertext back to the original text
 
 Supports both uppercase and lowercase letters
 
 Preserves non-alphabetic characters (spaces, symbols, numbers)
-<hr>
+
 🛠️ Technologies Used
-</br>
+
 Python 3
-<hr>
+
 📂 Files Included
 
 caesar_cipher.py – Main Python program for encryption and decryption
-<hr>
+
 ▶️ How to Run
 python caesar_cipher.py
 
 📌 Example
 
-Input: HELLO
+Input:
 
-Shift: 3
+HELLO
 
-Output: KHOOR
+
+Shift:
+
+3
+
+
+Output:
+
+KHOOR
